@@ -1,2 +1,1 @@
-# dvdnk-project.github.io
-dvdnk project
+Домашнє завдання IT NATION - Bootcamp для тестувальників.
